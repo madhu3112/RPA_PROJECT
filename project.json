@@ -41,7 +41,14 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [],
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "be0982ea-191c-4d1e-8c65-df484ac15b37",
+        "testCaseType": "TestCase",
+        "fileName": "RPA WEB.xaml"
+      }
+    ],
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
